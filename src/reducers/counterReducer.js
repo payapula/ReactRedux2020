@@ -1,4 +1,4 @@
-import {ADD_VALUE , MINUS_VALUE} from '../actions'
+import {ADD_VALUE , MINUS_VALUE} from '../actions/ActionTypes'
 
 
 const counterReducer = (state=0, action) => {
